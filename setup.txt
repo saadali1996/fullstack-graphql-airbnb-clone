@@ -1,2 +1,3 @@
 use netlify and heroku ,netlify is for app hosting
 changed heroku env
+Added support
